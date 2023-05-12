@@ -49,7 +49,7 @@ Specifies the behavior of the search operation. This parameter can be one or mor
 *lParam* 
 </dt> <dd>
 
-A [**FINDTEXTEXW**](/windows/desktop/api/Richedit/ns-richedit-findtextexa) structure containing information about the find operation.
+A [**FINDTEXTEXW**](/windows/desktop/api/Richedit/ns-richedit-findtextexw) structure containing information about the find operation.
 
 </dd> </dl>
 
